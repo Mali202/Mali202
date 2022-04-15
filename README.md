@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mali202
 - 🌱 I’m currently Studing Computer Science
-- 💞️ I’m looking to collaborate on c# and web development projects
+- 💞️ I’m looking to collaborate on web development and blockchain projects
 
 <!---
 Mali202/Mali202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
