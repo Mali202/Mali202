@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mali202
+- 👋 Hi, I’m Malibongwe Matiso
 - 🌱 I’m currently Studing Computer Science
 - 💞️ I’m looking to collaborate on web development and blockchain projects
 
