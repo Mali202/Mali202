@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malibongwe Matiso
-- 🌱 I’m currently Studing Computer Science
-- 💞️ I’m looking to collaborate on web and Full-stack projects
+- 🌱 Currently studying Computer Science
+- 💞️ Watch me build, watch me fail, watch me succeed
 
 <!---
 Mali202/Mali202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
