@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malibongwe Matiso
-- 🌱 Currently studying Computer Science
+- 🌱 Computer Science Graduate
 - 💞️ Watch me build, watch me fail, watch me succeed
 
 <!---
